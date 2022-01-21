@@ -6,3 +6,5 @@ class MyDerivedObject(my_object.MyObject):
 
     def __str__(self):
         return self.greeting
+    def set_greeting(self, newGreeting):
+        self.greeting = newGreeting
