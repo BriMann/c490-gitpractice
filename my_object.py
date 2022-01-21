@@ -1,3 +1,3 @@
 class MyObject:
-	def __init__(self):
-	    self.greeting = "Hello World!"
+    def __init__(self):
+        self.greeting = "Hello World!"
